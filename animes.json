@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "nome": "The Tunnel to Summer, the Exit of Goodbyes",
+    "ano": 2022,
+    "descricao": "Um túnel misterioso concede desejos, mas cobra um preço. Dois jovens arriscam tudo por amor e esperança.",
+    "sinopse": "A família de Kaoru Touno está se desintegrando. Após a morte de um irmão e o divórcio dos pais, ele não sente mais paz em casa. Após um confronto acalorado com o pai, Kaoru sai correndo de casa e se vê diante de um túnel misterioso, que o puxa para dentro. Perplexo com o que vê lá dentro, ele corre para a saída, pegando um pássaro idêntico ao seu falecido animal de estimação ao sair.\n\nAo sair, Kaoru percebe que, apesar de ter passado apenas alguns minutos dentro do túnel, uma semana inteira se passou. A experiência bizarra o leva a se lembrar dos rumores sobre o 'Túnel Urashima' — uma passagem que concede desejos em troca da vida de alguém. Diante da ressurreição de seu pássaro de estimação, Kaoru não consegue deixar de se perguntar se outra visita poderá ajudar a consertar sua vida problemática.\n\nNo entanto, ao retornar à entrada do misterioso túnel, Kaoru percebe que está sendo seguido por Anzu Hanashiro, uma nova aluna transferida de sua turma. Ela também sabe dos rumores e pede a ele que a ajude com um experimento — descobre-se que ela também tem um desejo que só o túnel pode realizar.\n\n[Escrito por MAL Rewrite]",
+    "capa": "capa/1/capa.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Filme",
+        "videos": [
+          "video/1/EP1/1.mp4",
+          "video/1/EP1/2.mp4",
+          "video/1/EP1/3.mp4",
+          "video/1/EP1/4.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "The Angel Next Door Spoils Me Rotten",
+    "ano": 2023,
+    "descricao": "Um romance leve entre um estudante comum e sua vizinha angelical, cheia de momentos fofos e emocionantes.",
+    "sinopse": "Mahiru Shiina faz jus ao apelido de 'Anjo': é uma beleza divina, amada por todos, e se destaca tanto nos estudos quanto nos esportes. Shiina vive em um mundo completamente diferente de Amane Fujimiya, seu vizinho. Apesar de morarem tão próximos, eles nunca se falaram uma única vez. Mas o silêncio é quebrado quando Fujimiya a vê sentada, melancolicamente, em um balanço em meio a uma forte tempestade e lhe empresta seu guarda-chuva.\n\nQuando Fujimiya pega um resfriado no dia seguinte, Shiina deseja retribuir o favor do guarda-chuva cuidando dele até que se recupere. Acreditando que esta seria a primeira e última interação deles, ele silenciosamente aprecia a gentileza dela. No entanto, Shiina — que não consegue deixar de se preocupar com a falta de organização e alimentação adequada de Fujimiya — começa a cozinhar e limpar para ele. Enquanto o improvável casal passa um tempo junto no apartamento de Fujimiya, eles exploram a verdadeira natureza de seu relacionamento e as emoções gentis que emergem dele.\n\n[Escrito por MAL Rewrite]",
+    "capa": "capa/2/capa.jpg",
+    "episodios": [
+      { "numero": 1, "titulo": "EP1", "videos": ["video/2/EP1/1.mp4"] },
+      { "numero": 2, "titulo": "EP2", "videos": ["video/2/EP2/1.mp4", "video/2/EP2/2.mp4"] },
+      { "numero": 3, "titulo": "EP3", "videos": ["video/2/EP3/1.mp4"] },
+      { "numero": 4, "titulo": "EP4", "videos": ["video/2/EP4/1.mp4"] },
+      { "numero": 5, "titulo": "EP5", "videos": ["video/2/EP5/1.mp4"] },
+      { "numero": 6, "titulo": "EP6", "videos": ["video/2/EP6/1.mp4"] },
+      { "numero": 7, "titulo": "EP7", "videos": ["video/2/EP7/1.mp4"] },
+      { "numero": 8, "titulo": "EP8", "videos": ["video/2/EP8/1.mp4"] },
+      { "numero": 9, "titulo": "EP9", "videos": ["video/2/EP9/1.mp4"] },
+      { "numero": 10, "titulo": "EP10", "videos": ["video/2/EP10/1.mp4"] },
+      { "numero": 11, "titulo": "EP11", "videos": ["video/2/EP11/1.mp4"] },
+      { "numero": 12, "titulo": "EP12", "videos": ["video/2/EP12/1.mp4", "video/2/EP12/2.mp4"] }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Your Name",
+    "ano": 2016,
+    "descricao": "Dois jovens ligados por sonhos misteriosos embarcam numa jornada entre o tempo e o destino.",
+    "sinopse": "Mitsuha Miyamizu, uma estudante do ensino médio, anseia por viver a vida de um garoto na agitada cidade de Tóquio — um sonho que contrasta fortemente com sua vida atual no campo.\n\nEnquanto isso, na cidade, Taki Tachibana vive uma vida agitada como estudante do ensino médio, conciliando seu emprego de meio período com a esperança de um futuro na arquitetura.\n\nUm dia, Mitsuha acorda em um quarto que não é o seu e, de repente, se vê vivendo a vida dos sonhos em Tóquio — mas no corpo de Taki! Em outro lugar, Taki se vê vivendo a vida de Mitsuha no humilde campo.\n\nConfusos e intrigados, eles percebem que estão trocando de corpos de forma misteriosa, sem saber quando ou por quê. Para lidar com a situação, Mitsuha e Taki começam a deixar recados e regras um para o outro, tentando manter suas vidas em ordem enquanto buscam respostas para o fenômeno.\n\nCom o tempo, a ligação entre eles se aprofunda, e ambos passam a desejar se encontrar pessoalmente. No entanto, uma força maior — ligada ao tempo, ao destino e a uma tragédia iminente — ameaça separá-los para sempre.\n\n'Your Name' é uma história emocionante sobre conexões, saudade, esperança e a busca por alguém especial, mesmo quando tudo parece impossível.\n\n[Escrito por MAL Rewrite]",
+    "capa": "capa/3/capa.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Filme",
+        "videos": [
+          "video/3/EP1/1.mp4",
+          "video/3/EP1/2.mp4",
+          "video/3/EP1/3.mp4",
+          "video/3/EP1/4.mp4",
+          "video/3/EP1/5.mp4",
+          "video/3/EP1/6.mp4",
+          "video/3/EP1/7.mp4",
+          "video/3/EP1/8.mp4",
+          "video/3/EP1/9.mp4"
+        ]
+      }
+    ]
+  }
+] 

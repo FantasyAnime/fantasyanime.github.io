@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Assistir Anime - FantasyAnime</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="assets/logo.ico">
+    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/disabled-btn.css">
+</head>
+<body>
+    <div class="site-wrapper">
+    <header>
+        <div class="header-content">
+            <a href="index.html" class="header-logo-link"><img src="assets/logo.png" alt="Logo FantasyAnime" class="header-logo"></a>
+            <nav>
+                <a href="index.html">Início</a>
+                <a href="quem-somos.html">Quem Somos</a>
+            </nav>
+            <img src="assets/anime.png" alt="Anime" class="header-anime-img">
+        </div>
+    </header>
+    <main>
+        <section id="anime-page">
+            <div class="anime-flex-layout3">
+                <div class="anime-info-col">
+                    <div class="anime-info-box2">
+                        <button class="btn-voltar" style="align-self: flex-start; margin-bottom: 10px;" onclick="window.location.href='index.html'">← Voltar para lista</button>
+                        <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+                            <img id="animeCapa" src="" alt="Capa do Anime" style="display: block; margin: 0 auto;" />
+                        </div>
+                        <h2 id="animeNome"></h2>
+                        <div class="anime-meta2">
+                            <div id="animeAno"></div>
+                            <div id="animeTipo"></div>
+                            <div id="animeEpisodios"></div>
+                        </div>
+                        <div class="desc-title">Descrição:</div>
+                        <div id="animeDescricao"></div>
+                    </div>
+                </div>
+                <div class="anime-player-col">
+                    <div id="container" class="modern-player" style="width:100%; max-width:1920px; aspect-ratio:16/9; margin:0 auto; margin-top:30px; position:relative; border-radius:12px; overflow:hidden; box-shadow:0 4px 20px rgba(0,0,0,0.5); background:#111;">
+                        <video id="player" preload="auto" tabindex="0" style="width:100%; background:#000; display:block; cursor:pointer; border-radius:12px;"></video>
+                        <div id="modern-controls" class="modern-controls">
+                            <div id="modern-progressbar" class="modern-progressbar"><div id="modern-progress"></div></div>
+                            <div class="modern-controls-row">
+                                <button class="modern-btn" id="prevEpBtn" title="Episódio anterior">⏮</button>
+                                <button class="modern-btn" id="skipBackBtn" title="Voltar 5s">⏪</button>
+                                <button class="modern-btn" id="playBtn">▶</button>
+                                <button class="modern-btn" id="skipForwardBtn" title="Avançar 5s">⏩</button>
+                                <button class="modern-btn" id="nextEpBtn" title="Próximo episódio">⏭</button>
+                                <div class="modern-time" id="modern-time">00:00 / 00:00</div>
+                                <span class="modern-volume-value" id="modern-volume-value">100%</span>
+                                <input type="range" id="modern-volume-slider" min="0" max="200" value="100" class="modern-volume-slider">
+                                <button class="modern-btn" id="fullscreenBtn" title="Tela cheia">⛶</button>
+                            </div>
+                        </div>
+                        <div id="modern-loading" class="modern-loading">Carregando vídeos...</div>
+                        <div id="modern-error" class="modern-error">Erro ao carregar vídeos!</div>
+                    </div>
+                    <!-- Remover controles normais e barra de progresso duplicada -->
+                    <div class="anime-episodios-box2" style="width:100%;max-width:1100px;margin:24px auto 0 auto;">
+                        <h2>Episódios</h2>
+                        <div id="episodiosGrid"></div>
+                    </div>
+                    <!-- Nova caixa para sinopse -->
+                    <div class="anime-info-box2" style="width:100%;max-width:1100px;margin:24px auto 0 auto;padding: 12px 18px;">
+                        <div class="sinopse-title">Sinopse:</div>
+                        <div id="animeSinopse"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    </div>
+    <script src="assets/anime.js"></script>
+</body>
+</html>

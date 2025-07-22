@@ -1,0 +1,9 @@
+.modern-btn.disabled, .modern-btn:disabled {
+  opacity: 0.45;
+  background: rgba(255,255,255,0.10) !important;
+  color: #bbb !important;
+  cursor: not-allowed !important;
+  pointer-events: none;
+  filter: grayscale(0.5);
+  box-shadow: none;
+}
