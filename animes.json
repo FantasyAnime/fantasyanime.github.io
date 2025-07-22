@@ -112,5 +112,81 @@
       { "numero": 11, "titulo": "EP11", "videos": ["https://fantasyanime.github.io/video1/5/EP11/1.mp4", "https://fantasyanime.github.io/video1/5/EP11/2.mp4"] },
       { "numero": 12, "titulo": "EP12", "videos": ["https://fantasyanime.github.io/video1/5/EP12/1.mp4", "https://fantasyanime.github.io/video1/5/EP12/2.mp4"] }
     ]
+  },
+  {
+    "id": 6,
+    "nome": "Clannad",
+    "ano": 2007,
+    "descricao": "Um delinquente cínico encontra novas cores na vida ao ajudar uma garota a reativar o clube de teatro.",
+    "sinopse": "Tomoya Okazaki é um delinquente que acha a vida monótona e acredita que nunca chegará a lugar nenhum.\n\nJunto com seu amigo Youhei Sunohara, ele mata aula e planeja desperdiçar seus dias de colégio.\n\nUm dia, a caminho da escola, Tomoya encontra uma jovem resmungando baixinho para si mesma. Sem aviso, ela exclama \"Anpan!\" (uma comida japonesa popular), o que chama a atenção de Tomoya.\n\nEle logo descobre que o nome da garota é Nagisa Furukawa e que ela exclama coisas de que gosta para se motivar. Nagisa afirma que agora são amigos, mas Tomoya se afasta, ignorando o encontro.\n\nNo entanto, Tomoya percebe que está notando Nagisa cada vez mais pela escola. Eventualmente, ele cede e se torna amigo dela.\n\nTomoya descobre que Nagisa foi reprovada por um ano devido a uma doença grave e que seu sonho é reativar o clube de teatro da escola. Alegando não ter nada melhor para fazer, ele decide ajudá-la a alcançar esse objetivo junto com outras quatro garotas.\n\nÀ medida que Tomoya passa mais tempo com as meninas, ele aprende mais sobre elas e seus problemas. Ao tentar ajudar cada uma delas a superar seus respectivos obstáculos, ele começa a perceber que a vida não é tão monótona quanto ele pensava.\n\n[Escrito por MAL Rewrite]",
+    "capa": "https://fantasyanime.github.io/capa1/6/capa.jpg",
+    "episodios": [
+      { "numero": 1, "titulo": "EP1", "videos": ["https://fantasyanime.github.io/video2/6/EP1/1.mp4", "https://fantasyanime.github.io/video2/6/EP1/2.mp4"] },
+      { "numero": 2, "titulo": "EP2", "videos": ["https://fantasyanime.github.io/video2/6/EP2/1.mp4", "https://fantasyanime.github.io/video2/6/EP2/2.mp4"] },
+      { "numero": 3, "titulo": "EP3", "videos": ["https://fantasyanime.github.io/video2/6/EP3/1.mp4", "https://fantasyanime.github.io/video2/6/EP3/2.mp4"] },
+      { "numero": 4, "titulo": "EP4", "videos": ["https://fantasyanime.github.io/video2/6/EP4/1.mp4", "https://fantasyanime.github.io/video2/6/EP4/2.mp4"] },
+      { "numero": 5, "titulo": "EP5", "videos": ["https://fantasyanime.github.io/video2/6/EP5/1.mp4", "https://fantasyanime.github.io/video2/6/EP5/2.mp4"] },
+      { "numero": 6, "titulo": "EP6", "videos": ["https://fantasyanime.github.io/video2/6/EP6/1.mp4", "https://fantasyanime.github.io/video2/6/EP6/2.mp4"] },
+      { "numero": 7, "titulo": "EP7", "videos": ["https://fantasyanime.github.io/video2/6/EP7/1.mp4", "https://fantasyanime.github.io/video2/6/EP7/2.mp4"] },
+      { "numero": 8, "titulo": "EP8", "videos": ["https://fantasyanime.github.io/video2/6/EP8/1.mp4", "https://fantasyanime.github.io/video2/6/EP8/2.mp4"] },
+      { "numero": 9, "titulo": "EP9", "videos": ["https://fantasyanime.github.io/video2/6/EP9/1.mp4", "https://fantasyanime.github.io/video2/6/EP9/2.mp4"] },
+      { "numero": 10, "titulo": "EP10", "videos": ["https://fantasyanime.github.io/video2/6/EP10/1.mp4", "https://fantasyanime.github.io/video2/6/EP10/2.mp4"] },
+      { "numero": 11, "titulo": "EP11", "videos": ["https://fantasyanime.github.io/video2/6/EP11/1.mp4", "https://fantasyanime.github.io/video2/6/EP11/2.mp4"] },
+      { "numero": 12, "titulo": "EP12", "videos": ["https://fantasyanime.github.io/video2/6/EP12/1.mp4", "https://fantasyanime.github.io/video2/6/EP12/2.mp4"] },
+      { "numero": 13, "titulo": "EP13", "videos": ["https://fantasyanime.github.io/video2/6/EP13/1.mp4", "https://fantasyanime.github.io/video2/6/EP13/2.mp4"] },
+      { "numero": 14, "titulo": "EP14", "videos": ["https://fantasyanime.github.io/video2/6/EP14/1.mp4", "https://fantasyanime.github.io/video2/6/EP14/2.mp4"] },
+      { "numero": 15, "titulo": "EP15", "videos": ["https://fantasyanime.github.io/video2/6/EP15/1.mp4", "https://fantasyanime.github.io/video2/6/EP15/2.mp4"] },
+      { "numero": 16, "titulo": "EP16", "videos": ["https://fantasyanime.github.io/video2/6/EP16/1.mp4", "https://fantasyanime.github.io/video2/6/EP16/2.mp4"] },
+      { "numero": 17, "titulo": "EP17", "videos": ["https://fantasyanime.github.io/video2/6/EP17/1.mp4", "https://fantasyanime.github.io/video2/6/EP17/2.mp4"] },
+      { "numero": 18, "titulo": "EP18", "videos": ["https://fantasyanime.github.io/video2/6/EP18/1.mp4", "https://fantasyanime.github.io/video2/6/EP18/2.mp4"] },
+      { "numero": 19, "titulo": "EP19", "videos": ["https://fantasyanime.github.io/video2/6/EP19/1.mp4", "https://fantasyanime.github.io/video2/6/EP19/2.mp4"] },
+      { "numero": 20, "titulo": "EP20", "videos": ["https://fantasyanime.github.io/video2/6/EP20/1.mp4", "https://fantasyanime.github.io/video2/6/EP20/2.mp4"] },
+      { "numero": 21, "titulo": "EP21", "videos": ["https://fantasyanime.github.io/video2/6/EP21/1.mp4", "https://fantasyanime.github.io/video2/6/EP21/2.mp4"] },
+      { "numero": 22, "titulo": "EP22", "videos": ["https://fantasyanime.github.io/video2/6/EP22/1.mp4", "https://fantasyanime.github.io/video2/6/EP22/2.mp4"] },
+      { "numero": 23, "titulo": "EP23", "videos": ["https://fantasyanime.github.io/video2/6/EP23/1.mp4", "https://fantasyanime.github.io/video2/6/EP23/2.mp4"] }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Days with My Stepsister",
+    "ano": 2024,
+    "descricao": "Dois novos meio-irmãos tentam conviver em harmonia, sem saber que a distância pode virar carinho.",
+    "sinopse": "Yuuta Asamura ganha uma nova meia-irmã após o novo casamento de seu pai, Saki Ayase, que por acaso é a beldade número um do ano letivo.\n\nEles prometem um ao outro não serem muito próximos, não serem muito opostos e simplesmente manter uma distância vaga e confortável, tendo aprendido valores importantes sobre relacionamentos entre homens e mulheres com os pais anteriores.\n\nSaki, que trabalhou sozinha pelo bem da família, não sabe como confiar nos outros adequadamente, enquanto Yuuta não tem certeza de como tratá-la de verdade.\n\nEm pé de igualdade, os dois gradualmente aprendem o conforto de viver juntos.\n\nO relacionamento deles evolui de estranhos para amigos com o passar dos dias. Esta é uma história que pode um dia levar ao amor.\n\n(Fonte: MAL News)",
+    "capa": "https://fantasyanime.github.io/capa1/7/capa.jpg",
+    "episodios": [
+      { "numero": 1, "titulo": "EP1", "videos": ["https://fantasyanime.github.io/video2/7/EP1/1.mp4", "https://fantasyanime.github.io/video2/7/EP1/2.mp4"] },
+      { "numero": 2, "titulo": "EP2", "videos": ["https://fantasyanime.github.io/video2/7/EP2/1.mp4"] },
+      { "numero": 3, "titulo": "EP3", "videos": ["https://fantasyanime.github.io/video2/7/EP3/1.mp4", "https://fantasyanime.github.io/video2/7/EP3/2.mp4"] },
+      { "numero": 4, "titulo": "EP4", "videos": ["https://fantasyanime.github.io/video2/7/EP4/1.mp4", "https://fantasyanime.github.io/video2/7/EP4/2.mp4"] },
+      { "numero": 5, "titulo": "EP5", "videos": ["https://fantasyanime.github.io/video2/7/EP5/1.mp4", "https://fantasyanime.github.io/video2/7/EP5/2.mp4"] },
+      { "numero": 6, "titulo": "EP6", "videos": ["https://fantasyanime.github.io/video2/7/EP6/1.mp4", "https://fantasyanime.github.io/video2/7/EP6/2.mp4"] },
+      { "numero": 7, "titulo": "EP7", "videos": ["https://fantasyanime.github.io/video2/7/EP7/1.mp4", "https://fantasyanime.github.io/video2/7/EP7/2.mp4"] },
+      { "numero": 8, "titulo": "EP8", "videos": ["https://fantasyanime.github.io/video2/7/EP8/1.mp4", "https://fantasyanime.github.io/video2/7/EP8/2.mp4"] },
+      { "numero": 9, "titulo": "EP9", "videos": ["https://fantasyanime.github.io/video2/7/EP9/1.mp4", "https://fantasyanime.github.io/video2/7/EP9/2.mp4"] },
+      { "numero": 10, "titulo": "EP10", "videos": ["https://fantasyanime.github.io/video2/7/EP10/1.mp4", "https://fantasyanime.github.io/video2/7/EP10/2.mp4"] },
+      { "numero": 11, "titulo": "EP11", "videos": ["https://fantasyanime.github.io/video2/7/EP11/1.mp4", "https://fantasyanime.github.io/video2/7/EP11/2.mp4"] },
+      { "numero": 12, "titulo": "EP12", "videos": ["https://fantasyanime.github.io/video2/7/EP12/1.mp4"] }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Five Centimeters Per Second",
+    "ano": 2007,
+    "descricao": "Um romance interrompido pelo tempo e pela distância mostra como memórias podem prender o coração.",
+    "sinopse": "O que acontece quando duas pessoas se amam, mas simplesmente não estão destinadas a ficar juntas?\n\nTakaki Toono e Akari Shinohara são amigos de infância, mas circunstâncias fora de seu controle os separam. Eles prometem manter contato e, embora o passar do tempo amplie a distância entre eles, a corrente de memórias permanece sempre presente.\n\nByousoku 5 Centimeter é um drama romântico que foca na realidade mundana e dura dos relacionamentos à distância.\n\nPresos ao passado e incapazes de criar novas memórias, Takaki e Akari se agarram à esperança de se reencontrarem. Eles vivem suas rotinas de forma apática, ferindo a si mesmos e às pessoas ao seu redor.\n\n[Escrito por MAL Rewrite]",
+    "capa": "https://fantasyanime.github.io/capa1/8/capa.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Filme",
+        "videos": [
+          "https://fantasyanime.github.io/video2/8/EP1/1.mp4",
+          "https://fantasyanime.github.io/video2/8/EP1/2.mp4",
+          "https://fantasyanime.github.io/video2/8/EP1/3.mp4",
+          "https://fantasyanime.github.io/video2/8/EP1/4.mp4",
+          "https://fantasyanime.github.io/video2/8/EP1/5.mp4"
+        ]
+      }
+    ]
   }
 ] 
