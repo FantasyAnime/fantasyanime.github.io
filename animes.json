@@ -188,5 +188,98 @@
         ]
       }
     ]
+  },
+  {
+    "id": 9,
+    "nome": "I Want to Eat Your Pancreas",
+    "ano": 2018,
+    "descricao": "Uma garota com uma doença terminal transforma lentamente a vida de um garoto solitário e indiferente.",
+    "sinopse": "O protagonista distante: um leitor ávido profundamente desligado do mundo em que reside. Ele não tem interesse nos outros e está firmemente convencido de que ninguém tem interesse nele também.\n\nSua história começa quando ele tropeça em um livro escrito à mão, intitulado *Vivendo com a Morte*. Ele logo o identifica como um diário secreto pertencente à sua popular e animada colega de classe, Sakura Yamauchi. Ela então confidencia a ele sobre a doença pancreática da qual sofre e que seu tempo restante é finito.\n\nApenas sua família sabe sobre sua doença terminal; nem mesmo seus melhores amigos estão cientes. Apesar dessa revelação, ele demonstra zero simpatia por sua situação, mas preso nas ondas da persistente euforia de Sakura, ele eventualmente cede em acompanhá-la pelos seus dias restantes.\n\nÀ medida que o par de opostos polares interage, sua conexão se fortalece, entrelaçando-se através de suas escolhas feitas a cada dia que passa. Sua aparente indiferença e imprevisibilidade interrompem o fluxo impassível da vida do protagonista, abrindo gradualmente seu coração à medida que ele descobre e abraça o verdadeiro significado da vida.\n\n[Escrito por MAL Rewrite]",
+    "capa": "https://fantasyanime.github.io/capa1/9/capa.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Filme",
+        "videos": [
+          "https://fantasyanime.github.io/video2/8/EP1/1.mp4",
+          "https://fantasyanime.github.io/video2/8/EP1/2.mp4",
+          "https://fantasyanime.github.io/video2/8/EP1/3.mp4",
+          "https://fantasyanime.github.io/video2/8/EP1/4.mp4",
+          "https://fantasyanime.github.io/video2/8/EP1/5.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Hello World",
+    "ano": 2019,
+    "descricao": "Um jovem recebe ajuda de si mesmo do futuro para salvar a garota que ama de uma tragédia iminente.",
+    "sinopse": "O ano é 2027, e a cidade de Kyoto passou por um tremendo avanço tecnológico.\n\nNa cidade vivem dois colegas de classe: Naomi Katagaki, um garoto introvertido e socialmente desajeitado; e Ruri Ichigyou, uma garota de personalidade fria que costuma ser rude com as pessoas. Apesar de compartilhar o amor de Ruri pela leitura, Naomi tem medo de se aproximar dela devido à sua natureza hostil.\n\nUm dia, durante uma caminhada, Naomi testemunha uma aurora carmesim atravessar o céu por um breve momento antes de desaparecer. Logo depois, ele encontra um corvo de três pernas e um misterioso homem encapuzado, que se revela ser Naomi de 10 anos no futuro, explicando que veio para mudar um evento trágico iminente que acontece com Ruri logo após eles começarem a namorar.\n\nInicialmente levando suas palavras com cautela, Naomi do presente segue as instruções de seu eu futuro e começa a se aproximar de Ruri, determinado a salvá-la. Será que ele será capaz de mudar o futuro?\n\n[Escrito por MAL Rewrite]",
+    "capa": "https://fantasyanime.github.io/capa1/10/capa.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Filme",
+        "videos": [
+          "https://fantasyanime.github.io/video3/10/EP1/1.mp4",
+          "https://fantasyanime.github.io/video3/10/EP1/2.mp4",
+          "https://fantasyanime.github.io/video3/10/EP1/3.mp4",
+          "https://fantasyanime.github.io/video3/10/EP1/4.mp4",
+          "https://fantasyanime.github.io/video3/10/EP1/5.mp4",
+          "https://fantasyanime.github.io/video3/10/EP1/6.mp4",
+          "https://fantasyanime.github.io/video3/10/EP1/7.mp4",
+          "https://fantasyanime.github.io/video3/10/EP1/8.mp4",
+          "https://fantasyanime.github.io/video3/10/EP1/9.mp4",
+          "https://fantasyanime.github.io/video3/10/EP1/10.mp4",
+          "https://fantasyanime.github.io/video3/10/EP1/11.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Horimiya",
+    "ano": 2021,
+    "descricao": "Duas pessoas com vidas secretas se aproximam e descobrem a beleza de serem verdadeiros um com o outro.",
+    "sinopse": "À primeira vista, a ideia de Kyouko Hori e Izumi Miyamura se darem bem seria a última coisa que passaria pela cabeça das pessoas.\n\nAfinal, Hori tem a combinação perfeita de beleza e inteligência, enquanto Miyamura parece manso e distante para os colegas de classe. No entanto, um encontro fatídico entre os dois expõe o lado oculto de ambos.\n\nMesmo sendo popular na escola, Hori tem pouco tempo para socializar com as amigas devido aos afazeres domésticos. Por outro lado, Miyamura vive sob o nariz dos colegas, com tatuagens e piercings secretos no corpo que o fazem parecer um delinquente gentil.\n\nCom personalidades opostas, mas compartilhando estranhas semelhanças, os dois rapidamente se tornam amigos e frequentemente passam tempo juntos na casa de Hori.\n\nÀ medida que ambos emergem de suas conchas, compartilham um com o outro um lado de si mesmos que permanece oculto do mundo exterior.\n\n[Escrito por MAL Rewrite]",
+    "capa": "https://fantasyanime.github.io/capa1/11/capa.jpg",
+    "episodios": [
+      { "numero": 1, "titulo": "EP1", "videos": ["https://fantasyanime.github.io/video3/11/EP1/1.mp4", "https://fantasyanime.github.io/video3/11/EP1/2.mp4"] },
+      { "numero": 2, "titulo": "EP2", "videos": ["https://fantasyanime.github.io/video3/11/EP2/1.mp4", "https://fantasyanime.github.io/video3/11/EP2/2.mp4"] },
+      { "numero": 3, "titulo": "EP3", "videos": ["https://fantasyanime.github.io/video3/11/EP3/1.mp4", "https://fantasyanime.github.io/video3/11/EP3/2.mp4"] },
+      { "numero": 4, "titulo": "EP4", "videos": ["https://fantasyanime.github.io/video3/11/EP4/1.mp4", "https://fantasyanime.github.io/video3/11/EP4/2.mp4"] },
+      { "numero": 5, "titulo": "EP5", "videos": ["https://fantasyanime.github.io/video3/11/EP5/1.mp4", "https://fantasyanime.github.io/video3/11/EP5/2.mp4"] },
+      { "numero": 6, "titulo": "EP6", "videos": ["https://fantasyanime.github.io/video3/11/EP6/1.mp4", "https://fantasyanime.github.io/video3/11/EP6/2.mp4"] },
+      { "numero": 7, "titulo": "EP7", "videos": ["https://fantasyanime.github.io/video3/11/EP7/1.mp4", "https://fantasyanime.github.io/video3/11/EP7/2.mp4"] },
+      { "numero": 8, "titulo": "EP8", "videos": ["https://fantasyanime.github.io/video3/11/EP8/1.mp4", "https://fantasyanime.github.io/video3/11/EP8/2.mp4"] },
+      { "numero": 9, "titulo": "EP9", "videos": ["https://fantasyanime.github.io/video3/11/EP9/1.mp4", "https://fantasyanime.github.io/video3/11/EP9/2.mp4"] },
+      { "numero": 10, "titulo": "EP10", "videos": ["https://fantasyanime.github.io/video3/11/EP10/1.mp4", "https://fantasyanime.github.io/video3/11/EP10/2.mp4"] },
+      { "numero": 11, "titulo": "EP11", "videos": ["https://fantasyanime.github.io/video3/11/EP11/1.mp4", "https://fantasyanime.github.io/video3/11/EP11/2.mp4"] },
+      { "numero": 12, "titulo": "EP12", "videos": ["https://fantasyanime.github.io/video3/11/EP12/1.mp4", "https://fantasyanime.github.io/video3/11/EP12/2.mp4"] },
+      { "numero": 13, "titulo": "EP13", "videos": ["https://fantasyanime.github.io/video3/11/EP13/1.mp4", "https://fantasyanime.github.io/video3/11/EP13/2.mp4"] }
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "More than a Married Couple, but Not Lovers",
+    "ano": 2022,
+    "descricao": "Forçados a viver como um casal em um experimento escolar, dois opostos tentam se aproximar — por amor a outra pessoa.",
+    "sinopse": "O aluno do terceiro ano do ensino médio, Jirou Yakuin, está apaixonado por sua amiga de infância e colega de classe, Shiori Sakurazaka.\n\nAssim, ele espera ser pareado com ela para a prática do casamento: a prática da escola de selecionar aleatoriamente pares de garotos e garotas para viverem como casais de mentirinha, enquanto os monitora e avalia o quão próximos eles se tornaram.\n\nEnquanto isso, a animada Akari Watanabe quer ser designada para seu crush, o popular e bonito Minami Tenjin.\n\nPara seu desânimo, Jirou e Akari descobrem que não apenas eles foram pareados, mas também Shiori e Minami!\n\nDeterminados a ficar com seus crushes, Jirou e Akari se esforçam para ganhar o máximo de pontos possível, já que os 10 melhores pares ganham o direito de trocar de parceiro — desde que ambos os casais concordem.\n\n[Escrito por MAL Rewrite]",
+    "capa": "https://fantasyanime.github.io/capa1/12/capa.jpg",
+    "episodios": [
+      { "numero": 1, "titulo": "EP1", "videos": ["https://fantasyanime.github.io/video3/12/EP1/1.mp4", "https://fantasyanime.github.io/video3/12/EP1/2.mp4"] },
+      { "numero": 2, "titulo": "EP2", "videos": ["https://fantasyanime.github.io/video3/12/EP2/1.mp4", "https://fantasyanime.github.io/video3/12/EP2/2.mp4"] },
+      { "numero": 3, "titulo": "EP3", "videos": ["https://fantasyanime.github.io/video3/12/EP3/1.mp4", "https://fantasyanime.github.io/video3/12/EP3/2.mp4"] },
+      { "numero": 4, "titulo": "EP4", "videos": ["https://fantasyanime.github.io/video3/12/EP4/1.mp4", "https://fantasyanime.github.io/video3/12/EP4/2.mp4"] },
+      { "numero": 5, "titulo": "EP5", "videos": ["https://fantasyanime.github.io/video3/12/EP5/1.mp4", "https://fantasyanime.github.io/video3/12/EP5/2.mp4"] },
+      { "numero": 6, "titulo": "EP6", "videos": ["https://fantasyanime.github.io/video3/12/EP6/1.mp4"] },
+      { "numero": 7, "titulo": "EP7", "videos": ["https://fantasyanime.github.io/video3/12/EP7/1.mp4", "https://fantasyanime.github.io/video3/12/EP7/2.mp4"] },
+      { "numero": 8, "titulo": "EP8", "videos": ["https://fantasyanime.github.io/video3/12/EP8/1.mp4", "https://fantasyanime.github.io/video3/12/EP8/2.mp4"] },
+      { "numero": 9, "titulo": "EP9", "videos": ["https://fantasyanime.github.io/video3/12/EP9/1.mp4", "https://fantasyanime.github.io/video3/12/EP9/2.mp4"] },
+      { "numero": 10, "titulo": "EP10", "videos": ["https://fantasyanime.github.io/video3/12/EP10/1.mp4"] },
+      { "numero": 11, "titulo": "EP11", "videos": ["https://fantasyanime.github.io/video3/12/EP11/1.mp4"] },
+      { "numero": 12, "titulo": "EP12", "videos": ["https://fantasyanime.github.io/video3/12/EP12/1.mp4", "https://fantasyanime.github.io/video3/12/EP12/2.mp4"] }
+    ]
   }
 ] 
