@@ -42,7 +42,12 @@ async function carregarAnime() {
         tipoDiv.textContent = `Tipo: ${anime.episodios.length === 1 ? 'Filme' : 'Série'}`;
         epsDiv.textContent = `Episódios: ${anime.episodios.length}`;
         descDiv.textContent = anime.descricao || '';
-        sinopseDiv.textContent = anime.sinopse || '';
+        // Exibe sinopse com quebras de linha do JSON
+        if (anime.sinopse) {
+            sinopseDiv.innerHTML = anime.sinopse.replace(/\n\n/g, '<br><br>').replace(/\n/g, '<br>');
+        } else {
+            sinopseDiv.textContent = '';
+        }
         epGrid.innerHTML = '';
         epGrid.style.width = '100%';
         // Corrige caminhos dos vídeos

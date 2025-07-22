@@ -5,16 +5,16 @@
     "ano": 2022,
     "descricao": "Um túnel misterioso concede desejos, mas cobra um preço. Dois jovens arriscam tudo por amor e esperança.",
     "sinopse": "A família de Kaoru Touno está se desintegrando. Após a morte de um irmão e o divórcio dos pais, ele não sente mais paz em casa. Após um confronto acalorado com o pai, Kaoru sai correndo de casa e se vê diante de um túnel misterioso, que o puxa para dentro. Perplexo com o que vê lá dentro, ele corre para a saída, pegando um pássaro idêntico ao seu falecido animal de estimação ao sair.\n\nAo sair, Kaoru percebe que, apesar de ter passado apenas alguns minutos dentro do túnel, uma semana inteira se passou. A experiência bizarra o leva a se lembrar dos rumores sobre o 'Túnel Urashima' — uma passagem que concede desejos em troca da vida de alguém. Diante da ressurreição de seu pássaro de estimação, Kaoru não consegue deixar de se perguntar se outra visita poderá ajudar a consertar sua vida problemática.\n\nNo entanto, ao retornar à entrada do misterioso túnel, Kaoru percebe que está sendo seguido por Anzu Hanashiro, uma nova aluna transferida de sua turma. Ela também sabe dos rumores e pede a ele que a ajude com um experimento — descobre-se que ela também tem um desejo que só o túnel pode realizar.\n\n[Escrito por MAL Rewrite]",
-    "capa": "capa/1/capa.jpg",
+    "capa": "https://fantasyanime.github.io/capa1/1/capa.jpg",
     "episodios": [
       {
         "numero": 1,
         "titulo": "Filme",
         "videos": [
-          "video/1/EP1/1.mp4",
-          "video/1/EP1/2.mp4",
-          "video/1/EP1/3.mp4",
-          "video/1/EP1/4.mp4"
+          "https://fantasyanime.github.io/video1/1/EP1/1.mp4",
+          "https://fantasyanime.github.io/video1/1/EP1/2.mp4",
+          "https://fantasyanime.github.io/video1/1/EP1/3.mp4",
+          "https://fantasyanime.github.io/video1/1/EP1/4.mp4"
         ]
       }
     ]
@@ -25,20 +25,20 @@
     "ano": 2023,
     "descricao": "Um romance leve entre um estudante comum e sua vizinha angelical, cheia de momentos fofos e emocionantes.",
     "sinopse": "Mahiru Shiina faz jus ao apelido de 'Anjo': é uma beleza divina, amada por todos, e se destaca tanto nos estudos quanto nos esportes. Shiina vive em um mundo completamente diferente de Amane Fujimiya, seu vizinho. Apesar de morarem tão próximos, eles nunca se falaram uma única vez. Mas o silêncio é quebrado quando Fujimiya a vê sentada, melancolicamente, em um balanço em meio a uma forte tempestade e lhe empresta seu guarda-chuva.\n\nQuando Fujimiya pega um resfriado no dia seguinte, Shiina deseja retribuir o favor do guarda-chuva cuidando dele até que se recupere. Acreditando que esta seria a primeira e última interação deles, ele silenciosamente aprecia a gentileza dela. No entanto, Shiina — que não consegue deixar de se preocupar com a falta de organização e alimentação adequada de Fujimiya — começa a cozinhar e limpar para ele. Enquanto o improvável casal passa um tempo junto no apartamento de Fujimiya, eles exploram a verdadeira natureza de seu relacionamento e as emoções gentis que emergem dele.\n\n[Escrito por MAL Rewrite]",
-    "capa": "capa/2/capa.jpg",
+    "capa": "https://fantasyanime.github.io/capa1/2/capa.jpg",
     "episodios": [
-      { "numero": 1, "titulo": "EP1", "videos": ["video/2/EP1/1.mp4"] },
-      { "numero": 2, "titulo": "EP2", "videos": ["video/2/EP2/1.mp4", "video/2/EP2/2.mp4"] },
-      { "numero": 3, "titulo": "EP3", "videos": ["video/2/EP3/1.mp4"] },
-      { "numero": 4, "titulo": "EP4", "videos": ["video/2/EP4/1.mp4"] },
-      { "numero": 5, "titulo": "EP5", "videos": ["video/2/EP5/1.mp4"] },
-      { "numero": 6, "titulo": "EP6", "videos": ["video/2/EP6/1.mp4"] },
-      { "numero": 7, "titulo": "EP7", "videos": ["video/2/EP7/1.mp4"] },
-      { "numero": 8, "titulo": "EP8", "videos": ["video/2/EP8/1.mp4"] },
-      { "numero": 9, "titulo": "EP9", "videos": ["video/2/EP9/1.mp4"] },
-      { "numero": 10, "titulo": "EP10", "videos": ["video/2/EP10/1.mp4"] },
-      { "numero": 11, "titulo": "EP11", "videos": ["video/2/EP11/1.mp4"] },
-      { "numero": 12, "titulo": "EP12", "videos": ["video/2/EP12/1.mp4", "video/2/EP12/2.mp4"] }
+      { "numero": 1, "titulo": "EP1", "videos": ["https://fantasyanime.github.io/video1/2/EP1/1.mp4"] },
+      { "numero": 2, "titulo": "EP2", "videos": ["https://fantasyanime.github.io/video1/2/EP2/1.mp4", "https://fantasyanime.github.io/video1/2/EP2/2.mp4"] },
+      { "numero": 3, "titulo": "EP3", "videos": ["https://fantasyanime.github.io/video1/2/EP3/1.mp4"] },
+      { "numero": 4, "titulo": "EP4", "videos": ["https://fantasyanime.github.io/video1/2/EP4/1.mp4"] },
+      { "numero": 5, "titulo": "EP5", "videos": ["https://fantasyanime.github.io/video1/2/EP5/1.mp4"] },
+      { "numero": 6, "titulo": "EP6", "videos": ["https://fantasyanime.github.io/video1/2/EP6/1.mp4"] },
+      { "numero": 7, "titulo": "EP7", "videos": ["https://fantasyanime.github.io/video1/2/EP7/1.mp4"] },
+      { "numero": 8, "titulo": "EP8", "videos": ["https://fantasyanime.github.io/video1/2/EP8/1.mp4"] },
+      { "numero": 9, "titulo": "EP9", "videos": ["https://fantasyanime.github.io/video1/2/EP9/1.mp4"] },
+      { "numero": 10, "titulo": "EP10", "videos": ["https://fantasyanime.github.io/video1/2/EP10/1.mp4"] },
+      { "numero": 11, "titulo": "EP11", "videos": ["https://fantasyanime.github.io/video1/2/EP11/1.mp4"] },
+      { "numero": 12, "titulo": "EP12", "videos": ["https://fantasyanime.github.io/video1/2/EP12/1.mp4", "https://fantasyanime.github.io/video1/2/EP12/2.mp4"] }
     ]
   },
   {
@@ -47,23 +47,70 @@
     "ano": 2016,
     "descricao": "Dois jovens ligados por sonhos misteriosos embarcam numa jornada entre o tempo e o destino.",
     "sinopse": "Mitsuha Miyamizu, uma estudante do ensino médio, anseia por viver a vida de um garoto na agitada cidade de Tóquio — um sonho que contrasta fortemente com sua vida atual no campo.\n\nEnquanto isso, na cidade, Taki Tachibana vive uma vida agitada como estudante do ensino médio, conciliando seu emprego de meio período com a esperança de um futuro na arquitetura.\n\nUm dia, Mitsuha acorda em um quarto que não é o seu e, de repente, se vê vivendo a vida dos sonhos em Tóquio — mas no corpo de Taki! Em outro lugar, Taki se vê vivendo a vida de Mitsuha no humilde campo.\n\nConfusos e intrigados, eles percebem que estão trocando de corpos de forma misteriosa, sem saber quando ou por quê. Para lidar com a situação, Mitsuha e Taki começam a deixar recados e regras um para o outro, tentando manter suas vidas em ordem enquanto buscam respostas para o fenômeno.\n\nCom o tempo, a ligação entre eles se aprofunda, e ambos passam a desejar se encontrar pessoalmente. No entanto, uma força maior — ligada ao tempo, ao destino e a uma tragédia iminente — ameaça separá-los para sempre.\n\n'Your Name' é uma história emocionante sobre conexões, saudade, esperança e a busca por alguém especial, mesmo quando tudo parece impossível.\n\n[Escrito por MAL Rewrite]",
-    "capa": "capa/3/capa.jpg",
+    "capa": "https://fantasyanime.github.io/capa1/3/capa.jpg",
     "episodios": [
       {
         "numero": 1,
         "titulo": "Filme",
         "videos": [
-          "video/3/EP1/1.mp4",
-          "video/3/EP1/2.mp4",
-          "video/3/EP1/3.mp4",
-          "video/3/EP1/4.mp4",
-          "video/3/EP1/5.mp4",
-          "video/3/EP1/6.mp4",
-          "video/3/EP1/7.mp4",
-          "video/3/EP1/8.mp4",
-          "video/3/EP1/9.mp4"
+          "https://fantasyanime.github.io/video1/3/EP1/1.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/2.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/3.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/4.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/5.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/6.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/7.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/8.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/9.mp4"
         ]
       }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "A Silent Voice",
+    "ano": 2016,
+    "descricao": "Um jovem atormentado pelo passado busca redenção ao reencontrar a garota que um dia intimidou.",
+    "sinopse": "Como um jovem rebelde, o aluno do ensino fundamental Shouya Ishida buscava combater o tédio das formas mais cruéis.\n\nQuando a surda Shouko Nishimiya é transferida para sua turma, Shouya e o restante da turma a intimidam irrefletidamente por diversão.\n\nNo entanto, quando sua mãe notifica a escola, ele é apontado e culpado por tudo o que lhe foi feito. Com a transferência de Shouko para fora da escola, Shouya fica à mercê de seus colegas. Ele é cruelmente ostracizado durante todo o ensino fundamental e médio, enquanto os professores fazem vista grossa.\n\nAgora em seu terceiro ano do ensino médio, Shouya ainda é atormentado por seus erros de menino. Sinceramente arrependido de suas ações passadas, ele parte em uma jornada de redenção: encontrar Shouko mais uma vez e fazer as pazes.\n\nKoe no Katachi conta a história comovente do reencontro de Shouya com Shouko e suas tentativas honestas de se redimir, enquanto é continuamente assombrado pelas sombras de seu passado.\n\n[Escrito por MAL Rewrite]",
+    "capa": "https://fantasyanime.github.io/capa1/4/capa.jpg",
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Filme",
+        "videos": [
+          "https://fantasyanime.github.io/video1/3/EP1/1.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/2.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/3.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/4.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/5.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/6.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/7.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/8.mp4",
+          "https://fantasyanime.github.io/video1/3/EP1/9.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Alya Sometimes Hides Her Feelings in Russian",
+    "ano": 2024,
+    "descricao": "Uma garota meio russa se declara em segredo, sem saber que seu colega entende cada palavra.",
+    "sinopse": "A Academia Seirei é uma escola de prestígio frequentada pelos melhores alunos do Japão.\n\nAlisa Mikhailovna \"Alya\" Kujou, a tesoureira meio russa e meio japonesa do conselho estudantil da escola, é conhecida por sua inteligência, aparência deslumbrante e personalidade rígida.\n\nContrastando com sua personalidade quase impecável, o colega de classe desmotivado de Alya, Masachika Kuze, se mostra preguiçoso durante as aulas e parece não demonstrar interesse por ela.\n\nInicialmente irritada, Alya gradualmente se interessa por Masachika e começa a expressar sua afeição por ele em russo. No entanto, ela desconhece o segredo dele: ele entende o idioma fluentemente!\n\nPor causa de uma amiga de infância que estava temporariamente no Japão, Masachika tem estudado russo na esperança de reencontrá-la.\n\nÀ medida que os dois passam mais tempo juntos, o relacionamento brincalhão e excêntrico entre eles se aprofunda rapidamente. Enquanto isso, ambos precisam aprender a lidar com seus novos e crescentes sentimentos um pelo outro.\n\n[Escrito por MAL Rewrite]",
+    "capa": "https://fantasyanime.github.io/capa1/5/capa.jpg",
+    "episodios": [
+      { "numero": 1, "titulo": "EP1", "videos": ["https://fantasyanime.github.io/video1/5/EP1/1.mp4", "https://fantasyanime.github.io/video1/5/EP1/2.mp4"] },
+      { "numero": 2, "titulo": "EP2", "videos": ["https://fantasyanime.github.io/video1/5/EP2/1.mp4", "https://fantasyanime.github.io/video1/5/EP2/2.mp4"] },
+      { "numero": 3, "titulo": "EP3", "videos": ["https://fantasyanime.github.io/video1/5/EP3/1.mp4", "https://fantasyanime.github.io/video1/5/EP3/2.mp4"] },
+      { "numero": 4, "titulo": "EP4", "videos": ["https://fantasyanime.github.io/video1/5/EP4/1.mp4", "https://fantasyanime.github.io/video1/5/EP4/2.mp4"] },
+      { "numero": 5, "titulo": "EP5", "videos": ["https://fantasyanime.github.io/video1/5/EP5/1.mp4", "https://fantasyanime.github.io/video1/5/EP5/2.mp4"] },
+      { "numero": 6, "titulo": "EP6", "videos": ["https://fantasyanime.github.io/video1/5/EP6/1.mp4", "https://fantasyanime.github.io/video1/5/EP6/2.mp4"] },
+      { "numero": 7, "titulo": "EP7", "videos": ["https://fantasyanime.github.io/video1/5/EP7/1.mp4", "https://fantasyanime.github.io/video1/5/EP7/2.mp4"] },
+      { "numero": 8, "titulo": "EP8", "videos": ["https://fantasyanime.github.io/video1/5/EP8/1.mp4", "https://fantasyanime.github.io/video1/5/EP8/2.mp4"] },
+      { "numero": 9, "titulo": "EP9", "videos": ["https://fantasyanime.github.io/video1/5/EP9/1.mp4", "https://fantasyanime.github.io/video1/5/EP9/2.mp4"] },
+      { "numero": 10, "titulo": "EP10", "videos": ["https://fantasyanime.github.io/video1/5/EP10/1.mp4", "https://fantasyanime.github.io/video1/5/EP10/2.mp4"] },
+      { "numero": 11, "titulo": "EP11", "videos": ["https://fantasyanime.github.io/video1/5/EP11/1.mp4", "https://fantasyanime.github.io/video1/5/EP11/2.mp4"] },
+      { "numero": 12, "titulo": "EP12", "videos": ["https://fantasyanime.github.io/video1/5/EP12/1.mp4", "https://fantasyanime.github.io/video1/5/EP12/2.mp4"] }
     ]
   }
 ] 
