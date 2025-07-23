@@ -557,6 +557,13 @@ header h1 a:hover {
     font-family: 'Segoe UI', Arial, sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    word-break: break-word;
 }
 #animeInfo img {
     border: 3px solid #4caf50;
