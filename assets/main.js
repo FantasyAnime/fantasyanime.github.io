@@ -12,7 +12,9 @@ async function carregarAnimes(retry = 0) {
         console.log('Animes carregados:', animes);
         animesOriginais = animes;
         preencherFiltroAno(animes);
-        renderizarAnimes(animes);
+        // Embaralha a lista de animes antes de renderizar
+        const animesEmbaralhados = animes.slice().sort(() => Math.random() - 0.5);
+        renderizarAnimes(animesEmbaralhados);
     } catch (e) {
         console.error('Erro ao carregar animes:', e);
         if (retry < 2) {
@@ -72,11 +74,8 @@ function filtrarAnimes() {
         const anoMatch = !ano || String(anime.ano) === String(ano);
         return nomeMatch && tipoMatch && anoMatch;
     });
-    // Ordena por ano decrescente, depois por nome
-    filtrados.sort((a, b) => {
-        if (b.ano !== a.ano) return b.ano - a.ano;
-        return a.nome.localeCompare(b.nome);
-    });
+    // Embaralha a lista filtrada para exibição aleatória
+    filtrados = filtrados.slice().sort(() => Math.random() - 0.5);
     // Debug
     // console.log('Filtro:', {texto, tipo, ano, total: animesOriginais.length, filtrados: filtrados.length});
     renderizarAnimes(filtrados);
